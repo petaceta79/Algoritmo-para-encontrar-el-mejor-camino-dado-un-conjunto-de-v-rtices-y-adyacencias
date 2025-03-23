@@ -27,9 +27,7 @@ El proyecto genera los siguientes archivos en la carpeta `info`:
 
 Tenemos `InterpretarDatosEjecutable.cc` y `CrearDatosEjecutable.cc`, los cuales ya están preparados para su uso, junto con sus respectivos archivos `.exe` que deben ejecutarse desde la terminal.
 
-- **CrearDatosEjecutable.cc**: Dado un archivo con la siguiente estructura:
-(nodo) (nodos adyacentes)
-(y así para todos los nodos), genera en la carpeta `info` todos los archivos necesarios.
+- **CrearDatosEjecutable.cc**: Dado un archivo con la siguiente estructura: (nodo) (nodos adyacentes) (y así para todos los nodos), mirar "paises_fronteras1.txt" como ejemplo, genera en la carpeta `info` todos los archivos necesarios.
 - **InterpretarDatosEjecutable.cc**: Utilizando los archivos `.txt` de la carpeta `info`, solicita el nombre de dos nodos, seguido de una lista (que puede estar vacía) de nodos no visitables, y devuelve el camino más corto entre ellos o un camino vacío en caso de que no sean conexos.
 
 ## Objetivo
