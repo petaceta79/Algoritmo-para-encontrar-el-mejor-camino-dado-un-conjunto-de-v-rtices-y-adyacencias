@@ -124,7 +124,11 @@ void convertirMinusculas(const string& nombreArchivo) {
 }
 
 int main() {
-    string link = "paises_fronteras1.txt";
+    cout << "Nombre del archivo (con el .txt): " << endl;
+    string link; cin >> link;
+    cout << "Nombre de la carpeta: " << endl;
+    string carpeta; cin >> carpeta;
+    
     //convertirMinusculas(link);
-    crearData(link, "info");
+    crearData(link, carpeta);
 }
