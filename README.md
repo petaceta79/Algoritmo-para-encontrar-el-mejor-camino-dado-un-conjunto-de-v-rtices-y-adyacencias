@@ -36,7 +36,7 @@ El objetivo es aplicar una modificación del algoritmo BFS, el cual nos permite 
 
 También, los archivos .hh junto con sus respectivos .cc permiten a cualquiera utilizar las funciones según sea necesario, siempre que se cumplan las condiciones, como la existencia de los archivos requeridos. Además, están comentados con explicaciones de lo que hacen y son fácilmente interpretables.
 
-## Ejemplo
+## Ejemplo (con gifs)
 
 ### Bot para Travle
 
