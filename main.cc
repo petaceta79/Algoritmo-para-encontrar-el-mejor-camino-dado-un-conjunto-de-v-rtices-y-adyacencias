@@ -183,16 +183,17 @@ bool comienza_con(const std::string& a, const std::string& b) {
 // val el valor de salida
 // hashMapStringToInt = mapa que contiene todos los vertices
 bool inputCorrecto(string &val, map<string, int> &hashMapStringToInt) {
-    while (cin >> val && !hashMapStringToInt.count(val)) {
+    if (!(cin >> val)) return false;
+    while (!hashMapStringToInt.count(val)) {
         cout << "- puede que quisieses decir:";
         for (auto it = hashMapStringToInt.begin(); it != hashMapStringToInt.end(); ++it) {
             if (comienza_con(val, (it -> first))) cout << ' ' << (it -> first);
         } cout << endl;
+
+        if (!(cin >> val)) return false;
     }
 
-    if (val == "") return false;
     return true;
-
 }
 
 
@@ -209,15 +210,16 @@ int main() {
 
     // Main
     cout << "Introduce primer pais (en ingles)" << endl << "Mirar Hash para el nombre exacto" << endl;
-    string as1; inputCorrecto(as1, hashMapStringToInt);
-    cout << "Introduce primer pais (en ingles)" << endl << "Mirar Hash para el nombre exacto" << endl;
-    string as2; inputCorrecto(as2, hashMapStringToInt);
+    string as1 = ""; inputCorrecto(as1, hashMapStringToInt);
+    cout << "Introduce segundo pais (en ingles)" << endl << "Mirar Hash para el nombre exacto" << endl;
+    string as2 = ""; inputCorrecto(as2, hashMapStringToInt);
 
     cout << "Introduce los paises que no quieres que se visiten (cerrar entrada para parar, control + z o control + d)" << endl;
     list<int> noVisitados;
-    string pais;
+    string pais = "";
     while (inputCorrecto(pais, hashMapStringToInt)) {
         noVisitados.push_back(hashMapStringToInt.at(pais));
+        cout << "Annadido" << endl;
     }
 
     int a = hashMapStringToInt.at(as1);
