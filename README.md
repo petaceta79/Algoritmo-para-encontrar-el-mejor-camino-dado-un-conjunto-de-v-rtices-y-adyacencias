@@ -34,6 +34,8 @@ Tenemos `InterpretarDatosEjecutable.cc` y `CrearDatosEjecutable.cc`, los cuales 
 
 El objetivo es aplicar una modificación del algoritmo BFS, el cual nos permite encontrar el camino más óptimo en dicha matriz de adyacencias. De esta manera, de forma sencilla, puedes obtener caminos y distancias óptimas entre nodos, utilizando un formato muy simple.
 
+También, los archivos .hh junto con sus respectivos .cc permiten a cualquiera utilizar las funciones según sea necesario, siempre que se cumplan las condiciones, como la existencia de los archivos requeridos. Además, están comentados con explicaciones de lo que hacen y son fácilmente interpretables.
+
 ## Ejemplo
 
 ### Bot para Travle
