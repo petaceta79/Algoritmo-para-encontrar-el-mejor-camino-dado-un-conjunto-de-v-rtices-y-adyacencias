@@ -122,7 +122,7 @@ estonia russia latvia
 germany france poland austria switzerland luxembourg belgium netherlands denmark czechia
 bulgaria romania greece turkey north_macedonia republic_of_serbia
 greece bulgaria turkey albania north_macedonia
-turkey iraq iran syria armenia bulgaria greece azerbaijan georgia
+turkey iraq iran syria armenia bulgaria greece georgia
 albania greece north_macedonia montenegro kosovo
 croatia hungary slovenia bosnia_and_herzegovina republic_of_serbia montenegro
 switzerland france austria germany italy
@@ -143,7 +143,7 @@ italy france austria switzerland slovenia
 denmark germany
 united_kingdom ireland
 iceland 
-azerbaijan russia iran armenia turkey georgia
+azerbaijan russia iran armenia georgia
 georgia russia armenia turkey azerbaijan
 philippines 
 malaysia indonesia thailand brunei
