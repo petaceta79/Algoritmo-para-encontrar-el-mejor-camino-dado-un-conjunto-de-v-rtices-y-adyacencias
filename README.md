@@ -12,6 +12,7 @@ El proyecto permite:
 
 ## Estructura del Proyecto
 
+(Revisa los archivos para mayor precisión)
 - **LogicaPrincipal.hh**: Contiene la lógica principal del programa, incluyendo funciones para leer mapas hash y matrices de adyacencias, verificar adyacencias, y encontrar rutas óptimas entre entidades.
 - **ObtenerDatos.hh**: Contiene funciones para generar los archivos de mapas hash y la matriz de adyacencias a partir de un archivo de texto que contiene las relaciones de adyacencia.
 
