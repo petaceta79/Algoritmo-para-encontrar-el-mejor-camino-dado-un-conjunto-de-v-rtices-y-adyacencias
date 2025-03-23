@@ -126,9 +126,7 @@ void convertirMinusculas(const string& nombreArchivo) {
 int main() {
     cout << "Nombre del archivo (con el .txt): " << endl;
     string link; cin >> link;
-    cout << "Nombre de la carpeta: " << endl;
-    string carpeta; cin >> carpeta;
     
     //convertirMinusculas(link);
-    crearData(link, carpeta);
+    crearData(link, "info");
 }
