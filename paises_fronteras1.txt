@@ -1,0 +1,177 @@
+fiji 
+united_republic_of_tanzania democratic_republic_of_the_congo kenya zambia malawi mozambique burundi uganda rwanda
+western_sahara mauritania algeria morocco
+canada united_states_of_america
+united_states_of_america canada mexico
+kazakhstan uzbekistan russia kyrgyzstan turkmenistan china
+uzbekistan kazakhstan afghanistan tajikistan kyrgyzstan turkmenistan
+papua_new_guinea indonesia
+indonesia papua_new_guinea east_timor malaysia
+argentina chile uruguay brazil bolivia paraguay
+chile argentina bolivia peru
+democratic_republic_of_the_congo united_republic_of_tanzania central_african_republic republic_of_the_congo zambia angola burundi uganda rwanda south_sudan
+somalia kenya ethiopia somaliland
+kenya united_republic_of_tanzania somalia ethiopia uganda south_sudan
+sudan chad central_african_republic eritrea egypt libya ethiopia south_sudan
+chad sudan niger cameroon central_african_republic libya
+haiti dominican_republic
+dominican_republic haiti
+russia kazakhstan norway north_korea mongolia belarus ukraine poland lithuania latvia estonia china azerbaijan georgia finland
+the_bahamas 
+falkland_islands 
+norway russia sweden finland
+greenland 
+french_southern_and_antarctic_lands 
+east_timor indonesia
+south_africa lesotho zimbabwe botswana namibia mozambique eswatini
+lesotho south_africa
+mexico united_states_of_america guatemala belize
+uruguay argentina brazil
+brazil argentina uruguay bolivia peru colombia venezuela guyana suriname france paraguay
+bolivia argentina chile brazil peru paraguay
+peru chile brazil bolivia colombia ecuador
+colombia brazil peru panama venezuela ecuador
+panama colombia costa_rica
+costa_rica panama nicaragua
+nicaragua costa_rica honduras
+honduras nicaragua el_salvador guatemala
+el_salvador honduras guatemala
+guatemala mexico honduras el_salvador belize
+belize mexico guatemala
+venezuela brazil colombia guyana
+guyana brazil venezuela suriname
+suriname brazil guyana france
+france brazil suriname germany switzerland luxembourg belgium spain italy
+ecuador peru colombia
+puerto_rico 
+jamaica 
+cuba 
+zimbabwe south_africa botswana zambia mozambique
+botswana south_africa zimbabwe namibia zambia
+namibia south_africa botswana zambia angola
+senegal mali mauritania guinea guinea-bissau gambia
+mali senegal mauritania niger ivory_coast guinea burkina_faso algeria
+mauritania western_sahara senegal mali algeria
+benin niger nigeria togo burkina_faso
+niger chad mali benin nigeria cameroon burkina_faso algeria libya
+nigeria benin niger cameroon
+cameroon chad niger nigeria central_african_republic republic_of_the_congo gabon equatorial_guinea
+togo benin ghana burkina_faso
+ghana togo ivory_coast burkina_faso
+ivory_coast mali ghana guinea liberia burkina_faso
+guinea senegal mali ivory_coast guinea-bissau liberia sierra_leone
+guinea-bissau senegal guinea
+liberia ivory_coast guinea sierra_leone
+sierra_leone guinea liberia
+burkina_faso mali benin niger togo ghana ivory_coast
+central_african_republic democratic_republic_of_the_congo sudan chad cameroon republic_of_the_congo south_sudan
+republic_of_the_congo democratic_republic_of_the_congo cameroon central_african_republic gabon angola
+gabon cameroon republic_of_the_congo equatorial_guinea
+equatorial_guinea cameroon gabon
+zambia united_republic_of_tanzania democratic_republic_of_the_congo zimbabwe botswana namibia malawi mozambique angola
+malawi united_republic_of_tanzania zambia mozambique
+mozambique united_republic_of_tanzania south_africa zimbabwe zambia malawi eswatini
+eswatini south_africa mozambique
+angola democratic_republic_of_the_congo namibia republic_of_the_congo zambia
+burundi united_republic_of_tanzania democratic_republic_of_the_congo rwanda
+israel lebanon palestine jordan syria egypt
+lebanon israel syria
+madagascar 
+palestine israel jordan
+gambia senegal
+tunisia algeria libya
+algeria western_sahara mali mauritania niger tunisia morocco libya
+jordan israel palestine iraq syria saudi_arabia
+united_arab_emirates oman saudi_arabia
+qatar saudi_arabia
+kuwait iraq saudi_arabia
+iraq jordan kuwait iran syria turkey saudi_arabia
+oman united_arab_emirates yemen saudi_arabia
+vanuatu 
+cambodia thailand laos vietnam
+thailand cambodia laos myanmar malaysia
+laos cambodia thailand myanmar vietnam china
+myanmar thailand laos india bangladesh china
+vietnam cambodia laos china
+north_korea russia south_korea china
+south_korea north_korea
+mongolia russia china
+india myanmar bangladesh bhutan nepal pakistan china
+bangladesh myanmar india
+bhutan india china
+nepal india china
+pakistan india afghanistan iran china
+afghanistan uzbekistan pakistan tajikistan turkmenistan iran china
+tajikistan uzbekistan afghanistan kyrgyzstan china
+kyrgyzstan kazakhstan uzbekistan tajikistan china
+turkmenistan kazakhstan uzbekistan afghanistan iran
+iran iraq pakistan afghanistan turkmenistan armenia turkey azerbaijan
+syria israel lebanon jordan iraq turkey
+armenia iran turkey azerbaijan georgia
+sweden norway finland
+belarus russia ukraine poland lithuania latvia
+ukraine russia belarus poland hungary moldova romania slovakia
+poland russia belarus ukraine lithuania germany slovakia czechia
+austria hungary germany switzerland italy slovenia slovakia czechia
+hungary ukraine austria romania croatia slovenia slovakia republic_of_serbia
+moldova ukraine romania
+romania ukraine hungary moldova bulgaria republic_of_serbia
+lithuania russia belarus poland latvia
+latvia russia belarus lithuania estonia
+estonia russia latvia
+germany france poland austria switzerland luxembourg belgium netherlands denmark czechia
+bulgaria romania greece turkey north_macedonia republic_of_serbia
+greece bulgaria turkey albania north_macedonia
+turkey iraq iran syria armenia bulgaria greece azerbaijan georgia
+albania greece north_macedonia montenegro kosovo
+croatia hungary slovenia bosnia_and_herzegovina republic_of_serbia montenegro
+switzerland france austria germany italy
+luxembourg france germany belgium
+belgium france germany luxembourg netherlands
+netherlands germany belgium
+portugal spain
+spain france portugal
+ireland united_kingdom
+new_caledonia 
+solomon_islands 
+new_zealand 
+australia 
+sri_lanka 
+china kazakhstan russia laos myanmar vietnam north_korea mongolia india bhutan nepal pakistan afghanistan tajikistan kyrgyzstan
+taiwan 
+italy france austria switzerland slovenia
+denmark germany
+united_kingdom ireland
+iceland 
+azerbaijan russia iran armenia turkey georgia
+georgia russia armenia turkey azerbaijan
+philippines 
+malaysia indonesia thailand brunei
+brunei malaysia
+slovenia austria hungary croatia italy
+finland russia norway sweden
+slovakia ukraine poland austria hungary czechia
+czechia poland austria germany slovakia
+eritrea sudan ethiopia djibouti
+japan 
+paraguay argentina brazil bolivia
+yemen oman saudi_arabia
+saudi_arabia jordan united_arab_emirates qatar kuwait iraq oman yemen
+antarctica 
+northern_cyprus cyprus
+cyprus northern_cyprus
+morocco western_sahara algeria
+egypt sudan israel libya
+libya sudan chad niger tunisia algeria egypt
+ethiopia somalia kenya sudan eritrea djibouti somaliland south_sudan
+djibouti eritrea ethiopia somaliland
+somaliland somalia ethiopia djibouti
+uganda united_republic_of_tanzania democratic_republic_of_the_congo kenya rwanda south_sudan
+rwanda united_republic_of_tanzania democratic_republic_of_the_congo burundi uganda
+bosnia_and_herzegovina croatia republic_of_serbia montenegro
+north_macedonia bulgaria greece albania republic_of_serbia kosovo
+republic_of_serbia hungary romania bulgaria croatia bosnia_and_herzegovina north_macedonia montenegro kosovo
+montenegro albania croatia bosnia_and_herzegovina republic_of_serbia kosovo
+kosovo albania north_macedonia republic_of_serbia montenegro
+trinidad_and_tobago 
+south_sudan democratic_republic_of_the_congo kenya sudan central_african_republic ethiopia uganda
