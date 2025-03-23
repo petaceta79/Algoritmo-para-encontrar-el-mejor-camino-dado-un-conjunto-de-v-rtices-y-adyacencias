@@ -42,4 +42,4 @@ También, los archivos .hh junto con sus respectivos .cc permiten a cualquiera u
 
 Es una web en la que, dados dos países, debes conectarlos de la forma más óptima. Con el archivo `paises_fronteras1.txt`, obtenemos el camino más óptimo en la mayoría de los casos. Si el camino falla, es debido a un error en la matriz de adyacencias.
 
-(Fotos de ejemplos)
+<video src="VideosEjemplo/a.mp4" autoplay loop muted></video>
