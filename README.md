@@ -38,21 +38,29 @@ También, los archivos .hh junto con sus respectivos .cc permiten a cualquiera u
 
 ## Ejemplo (con gifs)
 
+Este ejemplo se puede extrapolar a cualquier otro caso parecido.
+
 ### Bot para Travle
 
 Es una web en la que, dados dos países, debes conectarlos de la forma más óptima. Con el archivo `paises_fronteras1.txt`, obtenemos el camino más óptimo en la mayoría de los casos. Si el camino falla, es debido a un error en la matriz de adyacencias.
 
-- **Loading de los datos**:
-![Loading de los datos](VideosEjemplo/ChargeData.gif)
+- **Carga de los datos**:
+  Cargando los datos que hay en el archivo "paises_fronteras1.txt", que contienen la relación de cada país con sus fronteras.  
+  ![Carga de los datos](VideosEjemplo/ChargeData.gif)
 
 - **Un ejemplo**:
-![Un ejemplo](VideosEjemplo/Ejemplo1.gif)
+  Una partida normal.  
+  ![Un ejemplo](VideosEjemplo/Ejemplo1.gif)
 
-- **Quitando un pais a visitar**:
-![Quitando un pais a visitar](VideosEjemplo/EjemploSkiping.gif)
+- **Excluyendo un país a visitar**:
+  Como excluir un país, se pueden prohibir los que sean necesarios.  
+  ![Excluyendo un país a visitar](VideosEjemplo/EjemploSkiping.gif)
 
 - **Sin camino**:
-![Sin camino](VideosEjemplo/NoPath.gif)
+  Una petición sin solución.  
+  ![Sin camino](VideosEjemplo/NoPath.gif)
 
 - **Ejemplo de varias partidas seguidas**:
-![Ejemplo de varias partidas seguidas](VideosEjemplo/Ejemplo2.gif)
+  Una serie de partidas largas.  
+  ![Ejemplo de varias partidas seguidas](VideosEjemplo/Ejemplo2.gif)
+
