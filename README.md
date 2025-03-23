@@ -1,61 +1,44 @@
-# Mapeo de Adyacencias entre Entidades
+# Proyecto de Mapeo de Adyacencias entre Entidades
 
-Este proyecto contiene dos programas en C++: uno para obtener los datos y el segundo para interpretarlos.
+Este proyecto está diseñado para analizar y mapear relaciones de adyacencia entre entidades (como países, ciudades, nodos, etc.) utilizando una matriz de adyacencias y un conjunto de mapas hash que relacionan los nombres de las entidades con identificadores numéricos. El proyecto consta de dos archivos principales: `main.cc` y `ObtenerDatos.cc`, que se encargan de la lógica principal y la generación de datos respectivamente.
 
-## Descripción
+## Descripción del Proyecto
 
-El propósito de este proyecto es facilitar el mapeo de adyacencias entre diferentes entidades. El primer programa se encarga de recolectar los datos necesarios y el segundo programa interpreta esos datos para generar el mapeo de adyacencias.
+El proyecto permite:
+1. **Generar datos de adyacencia**: A partir de un archivo de texto que contiene las relaciones de adyacencia entre entidades, se generan archivos de mapas hash y una matriz de adyacencias.
+2. **Consultar adyacencias**: Dada una entidad, se pueden listar todas las entidades adyacentes.
+3. **Verificar si dos entidades son adyacentes**: Se puede verificar si dos entidades específicas son adyacentes.
+4. **Encontrar la ruta más corta entre dos entidades**: Se puede encontrar la ruta más corta entre dos entidades, excluyendo ciertas entidades si es necesario.
 
 ## Estructura del Proyecto
 
-- `main`: La rama principal donde se encuentra el código fuente de los dos programas.
+- **LogicaPrincipal.hh**: Contiene la lógica principal del programa, incluyendo funciones para leer mapas hash y matrices de adyacencias, verificar adyacencias, y encontrar rutas óptimas entre entidades.
+- **ObtenerDatos.hh**: Contiene funciones para generar los archivos de mapas hash y la matriz de adyacencias a partir de un archivo de texto que contiene las relaciones de adyacencia.
 
-## Requisitos
+## Archivos Generados
 
-- Un compilador de C++ compatible con C++11 o superior.
-
-## Instalación
-
-1. Clona el repositorio:
-    ```sh
-    git clone https://github.com/petaceta79/Mapeo-de-Adyacencias-entre-Entidades.git
-    ```
-
-2. Navega al directorio del proyecto:
-    ```sh
-    cd Mapeo-de-Adyacencias-entre-Entidades
-    ```
-
-3. Compila los programas:
-    ```sh
-    g++ -o obtener_datos obtener_datos.cpp
-    g++ -o interpretar_datos interpretar_datos.cpp
-    ```
+El proyecto genera los siguientes archivos en la carpeta `info`:
+- **hashMapIntToString.txt**: Mapa que relaciona identificadores numéricos con nombres de entidades.
+- **hashMapStringToInt.txt**: Mapa que relaciona nombres de entidades con identificadores numéricos.
+- **matriz_de_adyacencia.txt**: Matriz de adyacencias que indica las relaciones entre entidades.
 
 ## Uso
 
-1. Ejecuta el programa para obtener los datos:
-    ```sh
-    ./obtener_datos
-    ```
+Tenemos `InterpretarDatosEjecutable.cc` y `CrearDatosEjecutable.cc`, los cuales ya están preparados para su uso, junto con sus respectivos archivos `.exe` que deben ejecutarse desde la terminal.
 
-2. Ejecuta el programa para interpretar los datos:
-    ```sh
-    ./interpretar_datos
-    ```
+- **CrearDatosEjecutable.cc**: Dado un archivo con la siguiente estructura:
+(nodo) (nodos adyacentes)
+(y así para todos los nodos), genera en la carpeta `info` todos los archivos necesarios.
+- **InterpretarDatosEjecutable.cc**: Utilizando los archivos `.txt` de la carpeta `info`, solicita el nombre de dos nodos, seguido de una lista (que puede estar vacía) de nodos no visitables, y devuelve el camino más corto entre ellos o un camino vacío en caso de que no sean conexos.
 
-## Contribuciones
+## Objetivo
 
-Las contribuciones son bienvenidas. Por favor, abre un issue o pull request para discutir cualquier cambio que te gustaría realizar.
+El objetivo es aplicar una modificación del algoritmo BFS, el cual nos permite encontrar el camino más óptimo en dicha matriz de adyacencias. De esta manera, de forma sencilla, puedes obtener caminos y distancias óptimas entre nodos, utilizando un formato muy simple.
 
-## Autor
+## Ejemplo
 
-- [petaceta79](https://github.com/petaceta79)
+### Bot para Travle
 
-## Licencia
+Es una web en la que, dados dos países, debes conectarlos de la forma más óptima. Con el archivo `paises_fronteras1.txt`, obtenemos el camino más óptimo en la mayoría de los casos. Si el camino falla, es debido a un error en la matriz de adyacencias.
 
-Este proyecto no tiene una licencia específica. Por favor, consulta con el autor para más detalles.
-
-## Agradecimientos
-
-Agradecimientos especiales a todos los que han contribuido a este proyecto de alguna manera.
+(Fotos de ejemplos)
