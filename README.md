@@ -24,10 +24,5 @@ El proyecto genera los siguientes archivos en la carpeta `info`:
 
 ## Uso
 
-### Compilación
 
-Para compilar el proyecto, utiliza el siguiente comando:
 
-```bash
-g++ main.cc -o main
-g++ ObtenerDatos.cc -o ObtenerDatos
